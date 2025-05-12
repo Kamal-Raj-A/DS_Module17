@@ -17,8 +17,8 @@ To write a printQueue C function of the given graph that is to be traversed in t
 ```
 /*
 Program to traverse graph using BFS
-Developed by: P KEERTHANA
-RegisterNumber:  212223240069
+Developed by: KAMAL RAJ A
+RegisterNumber:  212223040082
 */
 
 /*#include<stdio.h> 
