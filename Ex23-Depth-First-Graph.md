@@ -16,8 +16,8 @@ To compose the code for the function createNode to traverse the graph below in t
 ```
 /*
 Program to traverse the graph below in the depth first fashion
-Developed by: P KEERTHANA
-RegisterNumber: 212223240069
+Developed by: KAMAL RAJ A
+RegisterNumber: 212223040082
 */
 
 /*#include<stdio.h> 
